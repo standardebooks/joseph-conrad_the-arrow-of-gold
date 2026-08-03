@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad/the-arrow-of-gold</dc:identifier>
 		<dc:date>2026-04-21T18:31:09Z</dc:date>
@@ -53,11 +53,11 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young man becomes involved in arms smuggling and falls in love with his benefactor.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man becomes involved in arms smuggling and falls in love with his benefactor.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The young narrator of &lt;i&gt;The Arrow of Gold&lt;/i&gt;, a British seaman called Monsieur George, finds himself in Marseilles, France, in the 1870s during the time of the Third Carlist War. Supporters of the pretender are smuggling arms into Spain, and the narrator soon becomes entangled in this undercover plot. His benefactor is the mysterious Doña Rita, and their relationship is the plot’s focal point.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Arrow of Gold&lt;/i&gt; was published as a book in 1919 and serialized between 1918 and 1920. For inspiration, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Conrad&lt;/a&gt; drew heavily on his personal experience, previously recounted in &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea"&gt;&lt;i&gt;The Mirror of the Sea&lt;/i&gt;&lt;/a&gt;. One of Conrad’s final novels, the book met with some criticism in comparison to his earlier works, and is now mostly remembered for its autobiographical aspects.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1083</dc:source>
 		<dc:source>https://archive.org/details/arrowofgoldstory00conriala</dc:source>
