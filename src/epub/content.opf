@@ -53,7 +53,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young man becomes involved in arms smuggling and falls in love with his benefactor.</dc:abstract>
+		<meta property="schema:abstract">A young man becomes involved in arms smuggling and falls in love with his benefactor.</meta>
 		<dc:description>
 			&lt;p&gt;The young narrator of &lt;i&gt;The Arrow of Gold&lt;/i&gt;, a British seaman called Monsieur George, finds himself in Marseilles, France, in the 1870s during the time of the Third Carlist War. Supporters of the pretender are smuggling arms into Spain, and the narrator soon becomes entangled in this undercover plot. His benefactor is the mysterious Doña Rita, and their relationship is the plot’s focal point.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Arrow of Gold&lt;/i&gt; was published as a book in 1919 and serialized between 1918 and 1920. For inspiration, &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Conrad&lt;/a&gt; drew heavily on his personal experience, previously recounted in &lt;a href="https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea"&gt;&lt;i&gt;The Mirror of the Sea&lt;/i&gt;&lt;/a&gt;. One of Conrad’s final novels, the book met with some criticism in comparison to his earlier works, and is now mostly remembered for its autobiographical aspects.&lt;/p&gt;
